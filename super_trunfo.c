@@ -66,7 +66,7 @@ int main()
     printf("Densidade Populacional: %.2f.\n", densidadePopUm);
     printf("PIB per Capita: %.2f\n", ppcUm);
 
-    // Carta 2
+    //Carta 2
     printf("Carta 2\n");
     printf("Cidade: %s (%s)\n", cidadeDois, estadoDois);
     printf("Código Postal: %s \n", postalDois);
